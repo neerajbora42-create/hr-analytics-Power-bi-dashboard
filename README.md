@@ -20,3 +20,4 @@
 ## Files
 - `HR_Analytics.pbix`: dashboard file
 - `Images/`: dashboard screenshot
+- `HR_Analytics.xlsx/`: Raw Data
